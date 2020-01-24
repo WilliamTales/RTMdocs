@@ -39,7 +39,7 @@ In this graph the user can also navigate to the question correspondent survey by
 
 Tracking RapidPro messages traffic
 ----------------------------------
-RapidPro register message traffic information. This information reflects the ongoing and finished surveys level of engagement.
+RapidPro register message traffic information. This information reflects the ongoing and finished survey's level of engagement.
 This dashboard module shows the sum of aggregated values from sent and received messages.
 
 These messages statistics board displays the tracking of the active channels on the organization on RapidPro.
