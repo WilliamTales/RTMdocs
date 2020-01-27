@@ -51,10 +51,10 @@ Let's go step by step in this process:
 1. Start adding the flow file by clicking the option *Select your json file*;
 2. Switch *Visible globally* option to restrict this flow to your UNCT only or make it available for others;
 3. Give the flow a *Name*; 
-4. Select the flow *Language* (you can choose more than one, if there's translation available);
-5. Describe the purpose of this flow and which data where you aiming to gather with it. Giving examples would be a good practice too;
+4. Select the flow *Language* (you can choose more than one if there's a translation available);
+5. Describe the purpose of this flow and which data were you aiming to gather with it. Giving examples would be a good practice too;
 6. Tell which data is this flow asking for. EG. a registration flow would ask for "**Age, Gender and Region**";
-7. Select which SGDs this flow matchs;
+7. Select which SGDs this flow matches;
 8. Additionally, you can choose some *Tags* for the flow too. That's optional.
 
 ![repositoryFlowUpload](../../_images/repositoryFlowUpload.png) 
