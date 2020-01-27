@@ -43,3 +43,18 @@ By clicking the trash icon the respective account will be blocked and that login
 > To be done! 
 
 // TODO Account enabling feature yet to be developed.
+
+## User search tool
+
+The search bar uses the account's name to query and you just need to type and press enter. It's case insensitive and capable of searching for strings' fragments.  
+In the example bellow the search was *"and"* and it found "Admin S*and*box" account name.
+
+![usersSearch](../../_images/userSearch.png)
+
+It's also possible to clear the query just by clicking the **X** button at the search bar.
+
+## Sorting
+
+It's possible to order contacts by Name, ascending or descending, just by clicking the columm's title.
+
+![usersSorting](../../_images/userSorting.png)
