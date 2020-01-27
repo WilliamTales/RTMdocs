@@ -48,6 +48,8 @@ Share the flows build in RapidPro so other UNCTs may have access to your insight
 
 Let's go step by step in this process:
 
+> The following steps pretends that you've already exported the flow from RapidPro and have the JSON file saved to your computer.
+
 1. Start adding the flow file by clicking the option *Select your json file*;
 2. Switch *Visible globally* option to restrict this flow to your UNCT only or make it available for others;
 3. Give the flow a *Name*; 
