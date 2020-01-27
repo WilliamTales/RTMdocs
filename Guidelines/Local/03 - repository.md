@@ -36,13 +36,28 @@ Restricts the list for your UNCT's flows only.
 
 ## Administrator perspective
 
-An administrator has access to all features, including surveys' actions for adding new, removing and editing.
+An administrator has access to all features, including surveys' actions for adding new, removing and editing content.
 
 ![repositoryAdminHome](../../_images/repositoryAdminHome.png)
 
 ### Upload Flow
 
-Share flows from RapidPro on RTM is a simple process. On the side menu, you have the option Upload Flows which leads the user to a form where the survey (flow) can be registered.
+Share the flows build in RapidPro so other UNCTs may have access to your insights.
+
+> Note that the flow's results won't be included in the file.
+
+Let's go step by step in this process:
+
+1. Start adding the flow file by clicking the option *Select your json file*;
+2. Switch *Visible globally* option to restrict this flow to your UNCT only or make it available for others;
+3. Give the flow a *Name*; 
+4. Select the flow *Language* (you can choose more than one, if there's translation available);
+5. Describe the purpose of this flow and which data where you aiming to gather with it. Giving examples would be a good practice too;
+6. Tell which data is this flow asking for. EG. a registration flow would ask for "**Age, Gender and Region**";
+7. Select which SGDs this flow matchs;
+8. Additionally, you can choose some *Tags* for the flow too. That's optional.
+
+![repositoryFlowUpload](../../_images/repositoryFlowUpload.png) 
 
 ## Search
 
