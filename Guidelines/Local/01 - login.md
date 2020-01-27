@@ -1,15 +1,15 @@
 # Login
 
 You may access the RTM platform by entering credentials at [UN Info portal](http://dataforallcloud.org).  
-Type you *username*, *password* and hit **Log in**.
+Type your *username*, *password* and hit **Log in**.
 
-> This account is provided by UN team, and you can request yours by clicking _Register_.
+> This account is provided by the UN team, and you can request yours by clicking _Register_.
 
 ![loginhome](../../_images/loginhome.png)
 
-Uppon successful login you'll be redirected to UN Info home screen. Now choose **REAL TIME MONITORING** option and click the *UNCT* you want to access.
+Upon successful login you'll be redirected to the UN Info home screen. Now choose **REAL TIME MONITORING** option and click the *UNCT* you want to access.
 
-> The option to access UNCTs' workspaces is managed by UN team.
+> The option to access UNCTs' workspaces is managed by the UN team.
 
 ![uninfohome](../../_images/loginUninfoHome.png)
 

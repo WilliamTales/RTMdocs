@@ -14,7 +14,7 @@ Allowed to access UNCT's **Dashboard**, **Repository** and **Surveys** a viewer 
 
 ## Administrator
 
-Administrators' accounts have full access to all tools. Aditionally a user tab is offered to administrate accounts' access level and availability.
+Administrators' accounts have full access to all tools. Additionally, a user tab is offered to administrate accounts' access level and availability.
 
 ![adminhome](../../_images/usersAdminHome.png)
 
@@ -24,9 +24,9 @@ In the image below you can see two sample accounts. As you mouse over the pencil
 
 ![usersPage](../../_images/usersMainPageEdit.png)
 
-Changes takes effect immidiatly but if the modified account is still logging while being edited a fresh login may be needed.
+Changes take effect immediately but if the modified account is still logging while being edited a fresh login may be needed.
 
-> Note that isn't possible to edit account's personal data, if necessary that should be requested directly to a UNCT administrator and the RTM will inherit the info uppon a fresh login.
+> Note that it isn't possible to edit the account's personal data, if necessary that should be requested directly to a UNCT administrator and the RTM will inherit the info uppon a fresh login.
 
 ![usersEditPage](../../_images/usersUserPageEdit.png)
 
