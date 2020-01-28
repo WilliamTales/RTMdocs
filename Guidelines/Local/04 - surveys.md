@@ -24,18 +24,18 @@ An *administrator* account will also be capable of add, edit or exclude content.
 ### Connecting a Survey
 
 Connecting a Survey is basically the process of linking flows from a RapidPro UNCT workspace into the RTM platform and customizing its layout to better suit the RTM graphs and dashboards.  
-First thing you need to do is clicking the *Connect Survey* button at the right side. There are three major steps in the survey registration process, let's walk through each one.
+The first thing you need to do is clicking the *Connect Survey* button on the right side. There are three major steps in the survey registration process, let's walk through each one.
 
 ![surveysConnection](../../_images/surveysConnection.png)
 
 ### Survey General info
 
-The first step is selecting witch RapidPro flow will be the source of this survey.
+The first step is selecting which RapidPro flow will be the source of this survey.
 
-> These actions pretends that you have already finished creating the survey flow within all its steps and requirements. **No RapidPro flow editing should be done at this point if contacts already replied to it or you will loose previous answers!
+> These actions pretends that you have already finished creating the survey flow within all its steps and requirements. **No RapidPro flow editing should be done at this point if contacts already replied to it or you will lose previous answers!
 
 *Title* should be filled with the survey name that will be displayed, so you may describe it better than just the flow's name.  
-*Description* is where you can highligh in which case has this survey been taking place and describe its goals.
+*Description* is where you can highlight in which case has this survey been taking place and describe its goals.
 
 Than hit *Next* to move forward.
 
@@ -73,8 +73,8 @@ You'll see a numbered title for each question available. That title matches the 
 
 #### Question's title
 
-Here you may feel more confortable to provide a larger question description and highlight different perspectives to encourage positive discussion.  
-The default value will be respective question step from the RapidPro flow.
+Here you may feel more comfortable to provide a larger question description and highlight different perspectives to encourage positive discussion.  
+The default value will be the respective question step from the RapidPro flow.
 
 ![surveysConnectionQuestionsTitle](../../_images/surveysConnectionQuestionsTitle.png)
 
@@ -86,13 +86,13 @@ Link which SDG is being tracked in this question. More than one can be selected 
 
 #### Question's visibility
 
-RapidPro flow's questions aren't necessarilly connected to the purpose of a survey, and if that's the case you can disable that step. This means that question won't be visible in the *Survey Results* session.
+RapidPro flow's questions aren't necessarily connected to the purpose of a survey, and if that's the case you can disable that step. This means that question won't be visible in the *Survey Results* session.
 
 ![surveysConnectionQuestionsVisibility](../../_images/surveysConnectionQuestionsVisibility.png)
 
 #### Publish the survey's results
 
-After filling all necessary fields, you just need to save and those survey's results will become accessible at the *Surveys Results* session.
+After filling all necessary fields, you just need to save and those survey results will become accessible at the *Surveys Results* session.
 
 ![surveysConnectionQuestionsPublish](../../_images/surveysConnectionQuestionsPublish.png)
 
@@ -100,7 +100,7 @@ After filling all necessary fields, you just need to save and those survey's res
 
 There's a search bar to find surveys, you just need to type and press enter. It's case insensitive and capable of searching for strings' fragments at the name of active or inactive surveys.
 In the example below the search was *"a"* and it found five surveys where the string was found in different spots.  
-You can disengage the search filter by clicking the **X** at the rigth of the bar.
+You can disengage the search filter by clicking the **X** at the right of the bar.
 
 ![surveysSearch](../../_images/surveysSearch.png)
 
@@ -108,7 +108,7 @@ You can disengage the search filter by clicking the **X** at the rigth of the ba
 
 It's possible to sort surveys by *Name*, number of *Runs* and *Status*. Clicking the option once will sort ascending and the second time will apply descending.  
 
-Sorting can be a very usefull tool as your survey's list grow bigger, in the example below there's a search for *"a"* and also sorting the list by *Name*.
+Sorting can be a very useful tool as your survey's list grow bigger, in the example below there's a search for *"a"* and it's also sorting the list by *Name*.
 
 ![surveysSort](../../_images/surveysSort.png)
 
@@ -139,7 +139,7 @@ By clicking the question's number you'll be taken directly to questions' editing
 
 ## Disabled Surveys
 
-A grayed survey line means that has been disabled and become inacessible. A disabled survey won't have its results sincronized.  
+A grayed survey line means that it has been disabled and become inaccessible. A disabled survey won't have its results synchronized.  
 In most cases disabling a survey means that result is no longer necessary or something went wrong with it.
 
 ![surveysDisabled](../../_images/surveysDisabledSurvey.png)
@@ -150,7 +150,7 @@ Here, you will find all surveys that were registered on your UNCT. Survey result
 
 ![surveysResults](../../_images/surveysResults.png)
 
-When choosing a survey on the list you will be redirected to the survey results page, which displays all details and charts. It's also possible to use the left panel and filter by SDG displaying only the questions that matches the ones selected.
+When choosing a survey on the list you will be redirected to the survey results page, which displays all details and charts. It's also possible to use the left panel and filter by SDG displaying only the questions that match the ones selected.
 
 ![surveyResultsAnalysis](../../_images/surveyResultsAnalysis.png)
 
