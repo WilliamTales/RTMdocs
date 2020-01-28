@@ -7,6 +7,7 @@
 **administrator**  
 **viewer**  
 **user**  
+**session**  
 
 # Layout Definitions
 
