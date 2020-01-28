@@ -32,7 +32,7 @@ The first thing you need to do is clicking the *Connect Survey* button on the ri
 
 The first step is selecting which RapidPro flow will be the source of this survey.
 
-> These actions pretends that you have already finished creating the survey flow within all its steps and requirements. **No RapidPro flow editing should be done at this point if contacts already replied to it or you will lose previous answers!
+> These actions pretends that you have already finished creating the survey flow within all its steps and requirements. No RapidPro flow editing should be done at this point if contacts already replied to it or you will lose previous answers!
 
 *Title* should be filled with the survey name that will be displayed, so you may describe it better than just the flow's name.  
 *Description* is where you can highlight in which case has this survey been taking place and describe its goals.
