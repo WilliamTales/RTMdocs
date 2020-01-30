@@ -9,7 +9,7 @@ Like a main access point, it allows gathering different perceptions from ongoing
 
 ## Walkthrough
 
-*Global Dashboard* agregates all active surveys from UNCTs' workspaces. Right below the page's title it's the scope of the first *Filter*, which applies to the entire page range options.
+*Global Dashboard* aggregates all active surveys from UNCTs' workspaces. Right below the page's title, it's the scope of the first *Filter*, which applies to the entire page range options.
 
 To ease the understanding, there's a block division for each data type.  
 The first one is related to *SDGs tracking*, then *Surveys Partial Results*, *Message Metrics*, *Most used Channels* and lastly *RapidPro Contacts*.  
