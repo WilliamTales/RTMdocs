@@ -20,7 +20,7 @@ Each one has its own features and sorting options and we'll go through it all on
 In the bubble graph, you can see which SDG is being more tracked related to others.  
 In other words, it shows the number of received messages for questions that are linked to the respective SDG.
 
-![dashboardSdgTrack](../../_images/rtm-sdg-tracking-graph.png)
+![dashboardSdgTrack](../../_images/dashboardGSdgTrack.png)
 
 There are two separate sections to display the SDGs tracking status. The order doesn't interfere with the bubble size, it is ordered by crescent numerical order.  
 To provide better readability there is a tooltip on each bubble displaying the SDG name and also the received messages count.
@@ -39,7 +39,7 @@ It will bring a more close approach to all UNCT's ongoing surveys.
 There is a filter by SDG on the upper right corner, it allows to list questions that are linked to the selected SDG.  
 By navigating through the questions you will get indicators from ongoing answers to each question.
 
-![dashboardPartialResultsSort](../../_images/rtm-filter-by-sdg.png)
+![dashboardGPartialResultsSort](../../_images/dashboardGPartialResultsSort.png)
 
 ### Message Metrics
 
@@ -55,10 +55,18 @@ The message metrics by channel board displays the sum of all sent and received m
 ![dashboardMessageMetricsChannel](../../_images/channels.png)
 
 #### Sorting and Filtering
-// TODO
+<!-- Screenshots replacement needed after Channels' graph bugfix -->
+It's possible to restrict the messages time range you're looking for.
+
+![dashboardGMessageMetricsSortRange](../../_images/dashboardGMessageMetricsSortRange.png)
+
+A filter by channel will apply that only the selected channel's messages feed the graph.
+
+![dashboardGMessageMetricsSortChanne;](../../_images/dashboardGMessageMetricsSortChannel.png)
 
 ### RapidPro Contacts
 
 The number of contacts is a very important piece of information provided by RapidPro. It means the aggregated number of contacts inside the registered group from all UNCT's. The graph allows for seeing this information from the last 6 months.
 
 ![dashboardGContacts](../../_images/rapidproGcharts.png)
+ 
