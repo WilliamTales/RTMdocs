@@ -8,7 +8,7 @@ The home page for all logged accounts is the **Dashboard**.
 
 ## Viewer
 
-Allowed to access Global's **Dashboard** and **Repository** and **Surveys** a viewer account can only see the data already there.
+Allowed to access Global's **Dashboard** and **Repository** a viewer account can only see the data already there.
 
 ![viewerGhome](../../_images/usersViewerGHome.png)
 
