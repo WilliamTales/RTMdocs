@@ -17,6 +17,21 @@ When you've completed this process, the *global survey* will become available fo
 
 ![surveysGconnect](../../_images/surveysGconnect.png)
 
+### Connection evaluation
+
+Clicking the **+** icon on the survey right side will open the evaluation module.
+
+![surveysGconnectevaluation](../../_images/surveysGconnectevaluation.png)
+
+Than you'll see two tabs, *Pending* and *Approved*.  
+On *Pending* there's a list of all surveys requests. Clicking the survey *Name* will open the UNCT's respective content and the icons on its right side will approve or deny the request, respectivelly.
+
+![surveysGconnectPending](../../_images/surveysGconnectPending.png)
+
+On *Approved* you can also load the respective content by clicking the survey name. The **X** button will unlink that survey from the global event.
+
+![surveysGconnectApproved](../../_images/surveysGconnectApproved.png)
+
 ## Searching
 
 There's a search bar to find surveys, you just need to type and press enter. It's case insensitive and capable of searching for strings' fragments at the name of active or inactive surveys.
